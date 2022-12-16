@@ -84,7 +84,7 @@ text-decoration: none;
   letter-spacing: 2px;
   color: purple;
 }
-@media screen and (min-width: 1020px) {
+@media screen and (min-width: 950px) {
   .inner{
     margin-bottom: -14px;
   }
