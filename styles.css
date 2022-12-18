@@ -89,3 +89,9 @@ text-decoration: none;
     margin-bottom: -14px;
   }
 }
+
+@media screen and (min-width: 768px) {
+  .inner{
+    margin-bottom: -17px;
+  }
+}
