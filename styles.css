@@ -90,8 +90,3 @@ text-decoration: none;
   }
 }
 
-@media screen and (max-width: 768px) {
-  .inner{
-    margin-bottom: -17px;
-  }
-}
