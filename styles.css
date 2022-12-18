@@ -1,3 +1,6 @@
+.container{
+  width: 100%;
+}
 
 .outer{
   background-image: url(img/160x600.svg) ;
@@ -87,6 +90,9 @@ text-decoration: none;
 @media screen and (min-width: 950px) {
   .inner{
     margin-bottom: -14px;
+  }
+  .container{
+    width: 100%;
   }
 }
 
